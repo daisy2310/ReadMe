@@ -1,4 +1,4 @@
-1. The research process begins by selecting seventy-five Web applications from different online sources. 
+1. The research process begins by selecting seventy-five Web applications from different online sources listed in https://github.com/daisy2310/ReadMe/blob/main/Web%20apps%20sources.xlsx. 
 2. Four SAST tools (Yasca, Progpilot, Snyk, and SonarQube) and five DAST tools (OWASP ZAP, 
 Wapiti, Vega, Iron WASP, and Burp Suite) were selected. Their download and installation steps are mentioned in https://github.com/daisy2310/ReadMe/ 
 3. These applications are then locally deployed on windows 10 operating system using Xamp web server
