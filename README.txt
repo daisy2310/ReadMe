@@ -1,5 +1,5 @@
-1.  Results and Analysis: Result&Analysis.xlsx
-2.  Web Application sources: Web apps sources.xlsx
+1.  Results and Analysis: https://github.com/daisy2310/ReadMe/blob/main/Result%26Analysis.xlsx
+2.  Web Application sources:https://github.com/daisy2310/ReadMe/blob/main/Web%20apps%20sources.xlsx
 3.  Report: https://github.com/daisy2310
 3. Methodolgy used: https://github.com/daisy2310/ReadMe/blob/main/Methodology.txt
 4.  Tools sources and their setup guide:
